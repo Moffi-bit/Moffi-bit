@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Moffi-bit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moffi-bit&show_icons=true&theme=radical&count_private=true)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moffi-bit&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moffi-bit&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
