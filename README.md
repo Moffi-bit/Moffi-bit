@@ -1,7 +1,5 @@
-<h1>👋 Hello, I’m @Moffi-bit</h1>
-- 👀 I’m interested in Data Science and Information Security
-<br>
-- 🌱 I like Java
+im moff.
+i like java and i am interested in information security and data science
 
 <!---
 Moffi-bit/Moffi-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
