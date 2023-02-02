@@ -1,5 +1,4 @@
-im moff.
-i like java and i am interested in information security and data science
+I like most coding languages and I am interested in Information Science. Game Development, Machine Learning (AI), and Data Science. 
 
 <!---
 Moffi-bit/Moffi-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
