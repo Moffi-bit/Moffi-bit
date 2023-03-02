@@ -11,4 +11,5 @@ Tech:
  - MongoDB/MySQL
  - Rust
 
-
+Personal Projects:
+ -
