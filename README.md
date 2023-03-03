@@ -12,4 +12,4 @@ Tech:
  - Rust
 
 Personal Projects:
- -
+ - Amazon Scraper - https://github.com/Moffi-bit/Amazon-Scraper
