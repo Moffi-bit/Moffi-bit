@@ -13,5 +13,5 @@ Tech:
 
 Personal Projects:
  - Amazon Scraper -> https://github.com/Moffi-bit/Amazon-Scraper
- - Submit Server ->
+ - Submit Server -> https://github.com/Moffi-bit/Submit_Server
  - 
