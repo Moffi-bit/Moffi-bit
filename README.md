@@ -8,7 +8,7 @@ Tech:
  - C#/C++
  - Python
  - HTML/CSS/JS/PHP
- - MongoDB/MySQL
+ - MongoDB
  - Rust
 
 Personal Projects:
