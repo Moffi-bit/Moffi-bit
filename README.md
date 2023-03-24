@@ -14,4 +14,4 @@ Tech:
 Personal Projects:
  - Amazon Scraper -> https://github.com/Moffi-bit/Amazon-Scraper
  - Submit Server -> https://github.com/Moffi-bit/Submit_Server
- - Pathfinding Visualization ->
+ - Pathfinding Visualization -> https://github.com/Moffi-bit/VisualizingPathfinding
