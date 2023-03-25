@@ -5,7 +5,7 @@ Interests:
 
 Tech:
  - Java 
- - C#/C++
+ - C#
  - Python
  - HTML/CSS/JS/PHP
  - MongoDB
