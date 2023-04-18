@@ -1,7 +1,8 @@
 Interests:
  - Cybersecurity
+ - Ciphers
+ - Pathfinding Algorithms
  - Machine Learning (AI)
- - Data Science
 
 Tech:
  - Java 
