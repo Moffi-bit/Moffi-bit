@@ -1,9 +1,9 @@
 Interests:
  - Cybersecurity
- - Ciphers
+  - Ciphers
  - Pathfinding Algorithms
  - Machine Learning (AI)
-
+  - LLMs
 Tech:
  - Java 
  - C#
