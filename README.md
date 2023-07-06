@@ -15,4 +15,3 @@ Tech:
 
 Notable Projects (working on a few):
  - Amazon Scraper -> https://github.com/Moffi-bit/Amazon-Scraper
- - Pathfinding Visualization
