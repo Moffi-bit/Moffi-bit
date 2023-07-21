@@ -12,6 +12,7 @@ Tech:
  - HTML/CSS/JS/PHP
  - MongoDB
  - Rust
+ - Lua
 
 Notable Projects (working on a few):
  - Amazon Scraper -> https://github.com/Moffi-bit/Amazon-Scraper
