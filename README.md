@@ -4,6 +4,7 @@ Interests:
  - Pathfinding Algorithms
  - Machine Learning (AI)
  - LLMs
+ - Game development/scripting
  
 Tech:
  - Java 
