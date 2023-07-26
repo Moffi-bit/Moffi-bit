@@ -17,3 +17,4 @@ Tech:
 
 Notable Projects (working on a few):
  - Amazon Scraper -> https://github.com/Moffi-bit/Amazon-Scraper
+ - Strategist -> https://github.com/EthanRule/Strategist.git
