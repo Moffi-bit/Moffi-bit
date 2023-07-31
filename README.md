@@ -1,8 +1,7 @@
 Interests:
- - Cybersecurity
+ - Encryption methods
  - Ciphers
  - Pathfinding Algorithms
- - Machine Learning (AI)
  - LLMs
  - Game development/scripting
  
