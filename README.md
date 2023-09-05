@@ -10,8 +10,6 @@ Tech:
  - C#
  - Python
  - HTML/CSS/JS/PHP
- - MongoDB
- - Rust
  - Lua
 
 Notable Projects (working on a few):
