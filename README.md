@@ -2,7 +2,6 @@ Interests:
  - Encryption methods
  - Ciphers
  - Pathfinding Algorithms
- - LLMs
  - Game development/scripting
  
 Tech:
