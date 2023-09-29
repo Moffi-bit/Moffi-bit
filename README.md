@@ -9,6 +9,8 @@ Tech:
  - Python
  - HTML/CSS/JS/PHP
  - Lua
+ - MATLAB
+ - R and RStudio
 
 Notable Projects (working on a few):
  - Amazon Scraper -> https://github.com/Moffi-bit/Amazon-Scraper
