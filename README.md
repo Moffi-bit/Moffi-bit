@@ -3,14 +3,9 @@ Interests:
  - Pathfinding Algorithms
  - Game development/scripting
  
-Tech:
- - Java 
- - C/C#
- - Python
- - HTML/CSS/JS/PHP
- - Lua
- - MATLAB
- - R and RStudio
+Proficient in Java, and Python.
+Experience with all C languages, Rust, R, Lua, HTML, CSS, JavaScript, PHP, and Go.
+Technology I have used: Git, MATLAB, RStudio, Eclipse, VSCode, Unity, MongoDB, MySQL.
 
 Notable Projects (working on a few):
  - Amazon Scraper -> https://github.com/Moffi-bit/Amazon-Scraper
