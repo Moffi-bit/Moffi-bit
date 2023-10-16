@@ -15,5 +15,3 @@ Tech:
 Notable Projects (working on a few):
  - Amazon Scraper -> https://github.com/Moffi-bit/Amazon-Scraper
  - Strategist (WoW Addon) -> https://github.com/EthanRule/Strategist.git
- - Pathfinding Visualization
- - AES Encryption
