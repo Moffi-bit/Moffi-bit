@@ -6,5 +6,4 @@ Technology I have used: Git, MATLAB, RStudio, Eclipse, VSCode, Unity, MongoDB, M
 
 Notable Projects (working on a few):
  - Amazon Scraper -> https://github.com/Moffi-bit/Amazon-Scraper
- - Trial of Trash ->
  - Vigilant (Wartime Civilian Reporting Service) -> https://github.com/Jcho114/vigilant
