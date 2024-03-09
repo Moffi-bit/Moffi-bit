@@ -1,4 +1,4 @@
-Interested in encryption methods, pathfinding algorithms, and game development/scripting.
+Interested in cryptography, visualization applications, and game development/scripting.
  
 Proficient in Java, and Python. <br>
 Experience with all C languages, Rust, R, Lua, HTML, CSS, JavaScript, PHP, OCaml, MIPS and Go. <br>
