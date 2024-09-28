@@ -1,1 +1,1 @@
-I like doing anything coding-related.
+I create visualization applications, data collection and processing tools, and other things.
